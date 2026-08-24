@@ -1,0 +1,15 @@
+{
+  "ClabeNumber": null,
+  "ExternalClientId": "TestingNotification",
+  "ExternalReferenceNumber": "20260810105449584",
+  "Amount": 99997,
+  "ExpirationDate": "2099-12-31T23:59:59",
+  "IsRecurring": true,
+  "TransactionLimits": {
+    "CycleStartDay": 1,
+    "MaxDailyAmount": 20000.0,
+    "MaxMonthlyAmount": 40000,
+    "MaxTransactionAmount": 20000.0,
+    "MaxTransactionsPerDay": 10
+  }
+}

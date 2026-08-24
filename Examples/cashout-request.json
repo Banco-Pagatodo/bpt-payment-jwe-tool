@@ -1,0 +1,15 @@
+{
+  "amount": 500.00,
+  "cashWithdrawalExpirationDate": null,
+  "externalClientId": "CLIENT-12345",
+  "isTransfer": true,
+  "externalReferenceNumber": "REF-CASHOUT-001",
+  "transfer": {
+    "destinationAccount": "012180001234567890",
+    "destinationAccountHolder": "María González López",
+    "referenceNumber": "250128",
+    "concept": "Pago de servicios",
+    "payerName": "Juan Pérez García",
+    "payerAccount": "012180009876543210"
+  }
+}

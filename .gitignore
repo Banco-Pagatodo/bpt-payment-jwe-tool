@@ -1,0 +1,25 @@
+# Llaves privadas - NUNCA commitear
+*.pem
+*.key
+keys/
+*-private*
+
+# Configuración con credenciales
+appsettings.Development.json
+appsettings.Production.json
+
+# Build results
+bin/
+obj/
+nupkg/
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
