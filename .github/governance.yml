@@ -1,0 +1,11 @@
+metadata:
+  name: payment-jwe-tool
+  domain: payments
+  subdomain: '-'
+ownership:
+  team: payments
+  contact: '-'
+classification:
+  tier: 1
+  criticality: high
+  environment: production
