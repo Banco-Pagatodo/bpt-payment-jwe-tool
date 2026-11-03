@@ -1,9 +1,9 @@
 metadata:
   name: payment-jwe-tool
-  domain: payments
+  domain: payment
   subdomain: '-'
 ownership:
-  team: payments
+  team: payment
   contact: '-'
 classification:
   tier: 1
